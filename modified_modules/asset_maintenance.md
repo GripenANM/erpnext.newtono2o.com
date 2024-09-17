@@ -1,6 +1,6 @@
 # Asset Maintenance Schedule Flow
 
-- For Asset Maintenance, follow: https://docs.erpnext.com/docs/user/manual/en/asset-maintenance
+- For official guide on Asset Maintenance scheduling, follow: https://docs.erpnext.com/docs/user/manual/en/asset-maintenance
 - To create an asset: https://docs.erpnext.com/docs/user/manual/en/asset-asset
 - To create a company: https://docs.erpnext.com/docs/user/manual/en/company-setup
 
@@ -18,13 +18,14 @@
 - 4.4: task items that is planned
 - 4.5: click to fill in more details
 
-once the schedule is created, the emeployee/person selected will have the assigned take appear on their todo and calender. Note that the next due date will automatically update once the planned log is submited
+once the schedule is created, the emeployee/person selected will have the assigned take appear on their todo and calender. Note that the next due date will automatically update once the planned log is submited. Manual edit is also avaliable.
 
 
 # Asset Maintenance Log Flow
 once the schedule is created, based on the period of manintenace, the Maintenance Log will be gernerated. The log will have 3 state: Draft, pending for approval, planned, completed. maintenance team user will double check the task detail and add a material request where they can request a list of tools and material that is required to complete the job.
 once maintence team user if done, they can submit the task log for approval where the maintenance tema managger can reject of approve it. once approved, the task will be now marked as planned and maintenance user can complete the end of job report once they are done and change the maintenance status to the status that they decide.
 > Please note that in the maintenance schedule record view, the status will be based on maintenace status and not the status of the log itself and the status will all be planned regardless of the approval situation unless maintenace status is changed. Once the log is submited, not further change can be done.
+> to change due date, edit the related task in the maintenace schedule details page directly
 
 ![image](https://github.com/user-attachments/assets/75dda559-9a32-435e-9706-e06e89288cb0)
 ![image](https://github.com/user-attachments/assets/4ba1d193-c6de-41e2-9332-f9d6fac70ff4)
