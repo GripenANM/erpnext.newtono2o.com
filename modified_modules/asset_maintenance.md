@@ -1,6 +1,9 @@
 # Asset Maintenance Schedule Flow
 
 For Asset Maintenance, follow: https://docs.erpnext.com/docs/user/manual/en/asset-maintenance
+To create an asset: https://docs.erpnext.com/docs/user/manual/en/asset-asset
+To create a company: https://docs.erpnext.com/docs/user/manual/en/company-setup
+
 
 ![image](https://github.com/user-attachments/assets/5936ede1-0808-485e-8aa1-85540aad3302)
 ![image](https://github.com/user-attachments/assets/1831800f-51c9-4e58-9a59-daf5cf591ab7)
