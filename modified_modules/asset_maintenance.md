@@ -1,3 +1,6 @@
+[General Walkthrough Video](https://youtu.be/CUCgm-oJB1o)
+
+
 # Asset Maintenance Schedule Flow
 
 - For official guide on Asset Maintenance scheduling, follow: https://docs.erpnext.com/docs/user/manual/en/asset-maintenance
